@@ -1,6 +1,6 @@
-<h1 align="center">✨ Duygualy here 👑</h1>
+<h1 align="center">✨ Duygu here 👑</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F66DD8&center=true&vCenter=true&width=450&lines=Frontend+Developer+%F0%9F%92%BB;Mobile+App+Designer+%F0%9F%93%B1;AI+Explorer+%F0%9F%A4%96;React+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F66DD8&center=true&vCenter=true&width=450&lines=Frontend+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Website+Developer+%F0%9F%93%B1;Designer+%F0%9F%93%B1;AI+Explorer+%F0%9F%A4%96;React+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%93%9A" />
 </p>
 
 ---
@@ -10,15 +10,15 @@
 
 - 🎓 **Software Engineering** graduate – Lefke European University  
 - 🧠 Internship: **AI & Web Development @ ICED Company**  
-- 🧵 Working on:  
+- 🧵 Currently Working On:  
   - `📱` Hobby Tracker Mobile App  
-  - `👗` AI Fashion Assistant  
+  - `👗` Learning more about react native  
 - 🔮 Interested in:  
   - Creative UI/UX  
   - AI-Powered Features  
   - Personalization & Gamification  
 - 💬 Ask me about:  
-  `React Native`, `Node.js`, `MongoDB`, `JWT Auth`, `Responsive UI`, `Figma`, `Python`
+  `React Native`, `Node.js`, `MongoDB`, `React`, `Responsive UI`, `TypeScript/JavaScript`, `Python`, 
 
 ---
 
@@ -51,11 +51,11 @@
 | 📱 Mobile Dev   | React Native, Expo   |
 | 💻 Frontend     | React, HTML, CSS, Tailwind |
 | 🔙 Backend      | Node.js, Express     |
-| 🧠 AI           | Python, OpenAI, TensorFlow (beginner) |
+| 🧠 AI           | Python, OpenAI, HuggingFace, Tenserflow, Keras|
 | 🛢️ Database     | MongoDB, MySQL       |
 | 🎨 Design       | Figma, Canva         |
 | 📦 Auth & API   | JWT, REST API        |
-| 🧹 Tools        | Git, GitHub, Notion  |
+| 🧹 Tools        | Git, GitHub, Notion, Trello |
 
 ---
 
@@ -72,18 +72,9 @@
 
 ---
 
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/duygualy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/duygualy)  
-[![Mail](https://img.shields.io/badge/Email-dotsy@duygualy.dev-blue?style=flat-square&logo=gmail)](mailto:dotsy@duygualy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)]([https://linkedin.com/in/duygualy](https://www.linkedin.com/in/duygu-g%C3%BCc%C3%BCyetmez-71968b224/))  
+[![Mail](https://img.shields.io/badge/Email-duygu_zx2002@outlook.com-pink?style=flat-square&logo=gmail)](mailto:duygu_zx2002@outlook.com)
 
 ---
 
